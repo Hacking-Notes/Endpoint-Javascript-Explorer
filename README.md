@@ -1,6 +1,6 @@
 # Endpoint Javascript Explorer
 
-![brave_4I1PFVyKCj](https://github.com/user-attachments/assets/5bd748f8-7e14-45b8-8f5e-ecc6861ca705)
+[![Thumbnail](https://github.com/user-attachments/assets/39b4cd8a-0ad0-4412-96b4-1f2e5dc28598)](https://github.com/user-attachments/assets/5bd748f8-7e14-45b8-8f5e-ecc6861ca705)
 
 The Endpoint-Javascript-Explorer is a powerful JavaScript bookmarklet designed for discovering and analyzing endpoints embedded in JavaScript files across various domains. By entering specific scopes or leaving the field blank to search all domains, users can extract and examine URLs from JavaScript documents found on web pages.
 
