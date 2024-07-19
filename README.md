@@ -20,6 +20,8 @@ Setting this up is straightforward: just copy the code into a JavaScript bookmar
 
 ![image](https://github.com/user-attachments/assets/284cc47e-1a3e-4b6b-810d-2644773de702)
 
+Once the bookmark is created, visit your target and click the bookmark to launch the javascript!
+
 ## Creators:
 
 A special thanks to my friend <a href="https://github.com/AtlasWiki">AtlasWiki</a> for helping me create this tool.
