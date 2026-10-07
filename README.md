@@ -1,3 +1,12 @@
+<div align="center">
+
+<kbd>&nbsp;BOOKMARKLET&nbsp;</kbd> &nbsp; <kbd>&nbsp;JS RECON&nbsp;</kbd> &nbsp; <kbd>&nbsp;ENDPOINTS&nbsp;</kbd> &nbsp; 
+
+[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![License](https://img.shields.io/badge/LICENSE-MIT-3388ff?style=flat-square&labelColor=000000)](LICENSE)
+
+</div>
+
 # Endpoint Javascript Explorer
 
 [![Thumbnail](https://github.com/user-attachments/assets/39b4cd8a-0ad0-4412-96b4-1f2e5dc28598)](https://github.com/user-attachments/assets/5bd748f8-7e14-45b8-8f5e-ecc6861ca705)
@@ -29,3 +38,18 @@ A special thanks to my friend <a href="https://github.com/AtlasWiki">AtlasWiki</
 ## Disclaimer
 
 The tool provided on this GitHub page is intended for educational and research purposes only. The creators and maintainers of this tool are not responsible for any misuse or illegal use of the tool. It is the responsibility of the users to ensure that they comply with all applicable laws and regulations while using the tool.
+
+<br>
+
+<div align="center">
+
+### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
+[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
+[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
+
+<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+
+</div>
